@@ -1,1 +1,3 @@
 # marches_crafting
+Here you can find some crafting rules for marches of empire. Please add more ...
+The bash scriptes requires version > 4.2.
