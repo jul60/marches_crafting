@@ -1,0 +1,5 @@
+2 common/Brigands_Armor
+1 common/Basic_Helm
+1 common/Chainmail_Mask
+1 common/Milltia_Gauntlets
+1 common/Iron_Signet

@@ -1,0 +1,5 @@
+2 uncommon/Ancient_Signet
+1 uncommon/Balanced_Sword
+1 uncommon/Quality_Helm
+1 uncommon/Thousand_Cuts
+1 uncommon/Ring_of_Riches

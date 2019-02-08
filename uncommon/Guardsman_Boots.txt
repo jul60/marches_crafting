@@ -1,0 +1,6 @@
+1 common/Duellists_Sword
+1 common/Obsidian_Band
+1 common/Lucky_Ring
+1 common/Crude_Knife
+1 common/Chainmail_Mask
+1 common/Rider_Vambraces

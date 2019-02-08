@@ -1,0 +1,4 @@
+1 epic/Regal_Command
+1 epic/Ironfoot_Boots
+1 epic/Marksman_Ring
+1 epic/Wolf_Band

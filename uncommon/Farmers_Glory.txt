@@ -1,0 +1,4 @@
+1 common/Sturdy_Armor
+1 common/Leather_Gloves
+2 common/Reinforced_Gauntlets
+2 uncommon/Engineers_Gloves

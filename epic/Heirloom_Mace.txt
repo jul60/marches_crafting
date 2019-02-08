@@ -1,0 +1,6 @@
+1 rare/Iron_Sword
+1 rare/Quick_Crossbow
+1 rare/Ornate_Helm
+1 rare/Gloves_of_Agility
+1 rare/Axe_of_Plenty
+1 rare/Peacekeeper_Helmet

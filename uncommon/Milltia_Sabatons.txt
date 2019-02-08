@@ -1,0 +1,6 @@
+1 common/Guardsman_Helm
+1 common/Mail_Cuirass
+1 common/Sturdy_Ring
+1 common/Obsidian_Band
+1 common/Warm_Grips
+1 common/Sturdy_Sabatons

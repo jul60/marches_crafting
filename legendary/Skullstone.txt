@@ -1,0 +1,6 @@
+1 epic/Elite_Helm
+1 epic/Plated_Greaves
+1 epic/Illumination
+1 epic/Ring_of_the_Rabbit
+1 epic/Ironfoot_Boots
+1 epic/Stone_of_Ivy

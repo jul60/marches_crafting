@@ -1,0 +1,4 @@
+1 common/Brigands_Armor
+1 common/Iron_Signet
+1 common/Obsidian_Band
+1 common/Sapphire_Band

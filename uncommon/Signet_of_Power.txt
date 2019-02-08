@@ -1,0 +1,3 @@
+2 common/Ceremonial_Dagger
+1 common/Brigands_Armor
+1 common/Sturdy_Ring

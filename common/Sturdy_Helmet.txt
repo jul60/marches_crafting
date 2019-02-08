@@ -1,0 +1,5 @@
+2 common/Guardsman_Helm
+1 common/Crude_Dagger
+1 common/Old_Slippers
+1 common/Crudest_Boots
+1 common/Milltia_Gauntlets

@@ -1,0 +1,4 @@
+1 uncommon/Iron_Spear
+1 uncommon/Rider_Helm
+1 uncommon/Greaves_of_Fortune
+1 rare/Heavy_Plate

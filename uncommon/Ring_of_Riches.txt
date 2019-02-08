@@ -1,0 +1,6 @@
+1 common/Ceremonial_Dagger
+1 common/Milltia_Blade
+1 common/Sturdy_Sabatons
+1 common/Obsidian_Band
+1 common/Chainmail_Mask
+1 common/Milltia_Gauntlets

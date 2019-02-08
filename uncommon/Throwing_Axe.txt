@@ -1,0 +1,6 @@
+1 common/Crude_Sword
+1 common/Sturdy_Helmet
+1 common/Legionnaire_Chest
+1 common/Leather_Shoes
+1 uncommon/Swift_Blade
+1 uncommon/Farmers_Glory

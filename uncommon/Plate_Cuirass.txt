@@ -1,0 +1,4 @@
+3 common/Legionnaire_Chest
+1 common/Ruby_Ring
+1 uncommon/Balanced_Sword
+1 uncommon/Rusted_Royal_Band

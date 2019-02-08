@@ -1,0 +1,3 @@
+2 common/Adventurers_Insight
+1 uncommon/Governors_Grips
+1 uncommon/Thousand_Cuts

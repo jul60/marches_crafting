@@ -1,0 +1,5 @@
+1 common/Warm_Grips
+1 common/Reinforced_Gauntlets
+2 uncommon/Milltia_Sabatons
+1 common/Sturdy_Sabatons
+1 common/Family_Ring

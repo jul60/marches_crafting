@@ -1,0 +1,4 @@
+1 uncommon/Ringmail_Armor
+1 uncommon/Governors_Grips
+1 uncommon/Protective_Boots
+1 uncommon/Darkbane

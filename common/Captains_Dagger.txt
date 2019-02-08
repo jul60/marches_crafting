@@ -1,0 +1,4 @@
+1 common/Warm_Grips
+2 common/Crude_Sword
+2 common/Duellists_Sword
+1 common/Crudest_Boots

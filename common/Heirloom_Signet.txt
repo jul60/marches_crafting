@@ -1,0 +1,4 @@
+2 common/Crude_Crossbow
+2 common/Emerald_Signet
+1 common/Warm_Grips
+1 common/Lost_Ring

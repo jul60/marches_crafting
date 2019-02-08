@@ -1,0 +1,5 @@
+1 common/Milltia_Gauntlets
+2 common/Leatherskin_Greaves
+1 common/Family_Ring
+1 common/Emerald_Signet
+1 common/Iron_Signet

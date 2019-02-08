@@ -1,0 +1,4 @@
+1 epic/Masterwork_Spear
+1 epic/Sword_of_the_Monarch
+1 epic/Golden_Cuirass
+1 epic/Mercenary_Gloves

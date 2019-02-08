@@ -1,0 +1,4 @@
+1 common/Crude_Crossbow
+1 common/Woodsmans_Sword
+1 common/Emerald_Signet
+1 common/Obsidian_Band

@@ -1,0 +1,6 @@
+1 common/Mail_Cuirass
+1 common/Sturdy_Ring
+1 common/Lucky_Ring
+1 common/Sturdy_Gloves
+1 common/Old_Slippers
+1 common/Rider_Vambraces

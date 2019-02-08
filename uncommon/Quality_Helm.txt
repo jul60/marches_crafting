@@ -1,0 +1,4 @@
+1 common/Crude_Sword
+1 common/Ceremonial_Dagger
+1 common/Chainmail_Mask
+1 common/Sapphire_Band

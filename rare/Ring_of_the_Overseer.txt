@@ -1,0 +1,5 @@
+1 uncommon/Throwing_Axe
+1 uncommon/Rider_Armor
+1 uncommon/Plate_Cuirass
+2 rare/Workers_Grasp
+1 rare/Quick_Crossbow

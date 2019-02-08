@@ -1,0 +1,6 @@
+1 common/Crude_Spear
+1 common/Sturdy_Gloves
+1 common/Reinforced_Gauntlets
+1 common/Leather_Shoes
+1 uncommon/Ring_of_Riches
+1 uncommon/Thousand_Cuts

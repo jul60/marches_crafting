@@ -1,0 +1,4 @@
+1 common/Woodsmans_Sword
+2 common/Adventurers_Insight
+2 common/Family_Ring
+1 common/Light_Treads

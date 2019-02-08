@@ -1,0 +1,6 @@
+1 epic/Mercenarys_Long_Blade
+1 epic/Last_Resort
+1 epic/Golden_Mask
+1 epic/Illumination
+1 epic/Instructors_Crossbow
+1 epic/Masterwork_Falchion

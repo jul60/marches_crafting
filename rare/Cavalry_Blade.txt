@@ -1,0 +1,4 @@
+1 common/Ceremonial_Dagger
+1 common/Milltia_Blade
+2 uncommon/Quality_Helm
+2 uncommon/Balanced_Sword

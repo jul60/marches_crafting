@@ -1,0 +1,4 @@
+1 uncommon/Boots_of_Will
+1 rare/Governors_Kris
+1 rare/Guardsman_Sword
+1 rare/Superior_Armor

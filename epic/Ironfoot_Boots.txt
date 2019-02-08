@@ -1,0 +1,5 @@
+1 uncommon/Plate_Cuirass
+2 rare/Peacekeeper_Helmet
+1 rare/Reinforced_Boots
+1 rare/Stolen_Ring
+1 rare/Ringmail_Coat

@@ -1,0 +1,3 @@
+2 uncommon/Rider_Helm
+1 uncommon/Rider_Armor
+1 uncommon/Milltia_Sabatons

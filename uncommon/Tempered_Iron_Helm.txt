@@ -1,0 +1,6 @@
+1 common/Guardsman_Helm
+1 common/Adventurers_Insight
+1 common/Warm_Grips
+1 common/Sapphire_Band
+1 common/Sturdy_Armor
+1 common/Mail_Cuirass

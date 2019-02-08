@@ -1,0 +1,5 @@
+1 rare/Decorative_Blade
+1 rare/Superior_Armor
+1 epic/Engineers_Signet
+1 epic/Lords_Signet
+2 rare/Instructors_Signet

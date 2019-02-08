@@ -1,0 +1,5 @@
+1 rare/Decorative_Blade
+1 rare/Grips_of_Dedication
+1 epic/Elite_Helm
+1 epic/Champions_Guard
+2 rare/Ring_of_the_Overseer

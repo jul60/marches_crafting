@@ -1,0 +1,4 @@
+1 common/Crude_Spear
+1 common/Duellists_Sword
+2 common/Rider_Vambraces
+2 common/Sturdy_Armor

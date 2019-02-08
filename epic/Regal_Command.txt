@@ -1,0 +1,6 @@
+1 rare/Ornate_Battle_Armor
+1 rare/Ancient_Chestguard
+1 epic/Masterwork_Sword
+1 epic/The_Mountain
+1 rare/Messengers_Grips
+1 rare/Overlord_Fist

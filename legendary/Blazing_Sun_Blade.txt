@@ -1,0 +1,6 @@
+1 epic/Mercenarys_Long_Blade
+1 epic/Last_Resort
+1 epic/Engineers_Signet
+1 epic/Wolf_Band
+1 epic/Champions_Guard
+1 epic/Royal_Grips

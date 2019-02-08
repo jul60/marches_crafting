@@ -1,0 +1,6 @@
+1 rare/Ornate_Helm
+1 rare/Ornate_Battle_Armor
+1 rare/Swift_Shoes
+1 rare/Wisdom_Stone
+1 epic/Excellent_Gloves
+1 epic/Traveler_Gauntlets

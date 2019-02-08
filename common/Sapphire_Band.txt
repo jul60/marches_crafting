@@ -1,0 +1,6 @@
+1 common/Basic_Helm
+1 common/Chainmail_Mask
+1 common/Ruby_Ring
+1 common/Obsidian_Band
+1 common/Heirloom_Helmet
+1 common/Leather_Gloves

@@ -1,0 +1,4 @@
+1 common/Crude_Knife
+1 common/Woodsmans_Sword
+1 uncommon/Quality_Helm
+1 uncommon/Ornate_Chestpiece

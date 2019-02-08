@@ -1,0 +1,3 @@
+2 common/Guardsman_Helm
+3 uncommon/Guardsman_Boots
+1 uncommon/Engineers_Gloves

@@ -1,0 +1,4 @@
+1 common/Lucky_Ring
+1 common/Sapphire_Band
+1 uncommon/Engineers_Gloves
+1 uncommon/Architects_Boots

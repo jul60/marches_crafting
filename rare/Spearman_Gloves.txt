@@ -1,0 +1,4 @@
+1 common/Rider_Vambraces
+1 uncommon/Governors_Grips
+3 uncommon/Ring_of_Aggression
+1 uncommon/Ancient_Signet

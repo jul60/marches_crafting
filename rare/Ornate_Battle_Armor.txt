@@ -1,0 +1,4 @@
+1 uncommon/Balanced_Sword
+1 uncommon/Swift_Blade
+1 uncommon/Rider_Armor
+1 uncommon/Plate_Cuirass

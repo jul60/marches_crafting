@@ -1,0 +1,4 @@
+2 common/Mail_Cuirass
+2 uncommon/Ranger_Armor
+1 uncommon/Balanced_Crossbow
+1 uncommon/Engineers_Gloves

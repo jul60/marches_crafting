@@ -1,0 +1,6 @@
+1 common/Mail_Cuirass
+1 common/Leather_Gloves
+1 common/Leather_Shoes
+1 common/Light_Treads
+1 uncommon/Balanced_Crossbow
+1 uncommon/Taskmasters_Dagger

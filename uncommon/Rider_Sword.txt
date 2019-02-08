@@ -1,0 +1,4 @@
+1 common/Duellists_Sword
+1 common/Crude_Knife
+1 common/Ceremonial_Dagger
+1 common/Old_Slippers

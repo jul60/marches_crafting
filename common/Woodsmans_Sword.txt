@@ -1,0 +1,4 @@
+2 common/Crude_Crossbow
+2 common/Basic_Helm
+1 common/Old_Slippers
+1 common/Emerald_Signet

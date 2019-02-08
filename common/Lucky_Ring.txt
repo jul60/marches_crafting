@@ -1,0 +1,5 @@
+2 common/Crude_Spear
+1 common/Old_Slippers
+1 common/Emerald_Signet
+1 common/Heirloom_Helmet
+1 common/Leather_Gloves

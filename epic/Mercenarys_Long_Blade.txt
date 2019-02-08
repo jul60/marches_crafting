@@ -1,0 +1,4 @@
+1 uncommon/Merchant_Knife
+1 uncommon/Architects_Boots
+1 rare/Iron_Sword
+1 rare/Excellent_Coif

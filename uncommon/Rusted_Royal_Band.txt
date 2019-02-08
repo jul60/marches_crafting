@@ -1,0 +1,4 @@
+1 common/Crude_Dagger
+1 common/Sturdy_Gloves
+1 common/Old_Slippers
+1 common/Heirloom_Signet

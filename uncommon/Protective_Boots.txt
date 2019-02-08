@@ -1,0 +1,4 @@
+1 common/Crude_Knife
+1 common/Leather_Doublet
+1 common/Crudest_Boots
+1 common/Obsidian_Band

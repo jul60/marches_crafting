@@ -1,0 +1,4 @@
+2 common/Crude_Knife
+1 common/Sturdy_Sabatons
+1 common/Lucky_Ring
+2 common/Leather_Gloves

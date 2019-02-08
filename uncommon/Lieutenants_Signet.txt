@@ -1,0 +1,5 @@
+1 common/Milltia_Blade
+1 common/Warm_Grips
+2 common/Sapphire_Band
+1 common/Lost_Ring
+1 common/Lucky_Ring

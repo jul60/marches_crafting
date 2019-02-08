@@ -1,0 +1,4 @@
+2 common/Duellists_Sword
+2 common/Crude_Dagger
+1 common/Sturdy_Ring
+1 common/Lost_Ring

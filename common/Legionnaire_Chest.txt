@@ -1,0 +1,3 @@
+2 common/Leather_Doublet
+2 common/Crudest_Boots
+2 common/Peasant_Coat

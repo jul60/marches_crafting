@@ -1,0 +1,6 @@
+1 common/Crude_Sword
+1 common/Mail_Cuirass
+1 common/Milltia_Gauntlets
+1 common/Heirloom_Signet
+1 uncommon/Greaves_of_Fortune
+1 uncommon/Guardsman_Boots

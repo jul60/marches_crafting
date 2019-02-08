@@ -1,0 +1,5 @@
+1 common/Leatherskin_Greaves
+1 uncommon/Tempered_Iron_Helm
+1 uncommon/Greaves_of_Fortune
+1 uncommon/Ring_of_Glory
+2 uncommon/Protective_Boots

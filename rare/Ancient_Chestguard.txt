@@ -1,0 +1,4 @@
+1 uncommon/Ringmail_Armor
+1 uncommon/Plate_Mail
+2 rare/Ringmail_Coat
+2 rare/Ornate_Battle_Armor

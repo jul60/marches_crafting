@@ -1,0 +1,3 @@
+1 epic/Hallowed_Blade
+1 epic/Coif_of_Triumph
+2 epic/Swiftness_Band

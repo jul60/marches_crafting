@@ -1,0 +1,5 @@
+2 common/Crude_Crossbow
+1 common/Sturdy_Helmet
+1 common/Legionnaire_Chest
+1 common/Ceremonial_Dagger
+1 common/Woodsmans_Sword

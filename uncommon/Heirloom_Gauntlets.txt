@@ -1,0 +1,6 @@
+1 common/Duellists_Sword
+1 common/Peasant_Coat
+1 common/Family_Ring
+1 common/Heirloom_Signet
+1 common/Legionnaire_Chest
+1 common/Light_Treads

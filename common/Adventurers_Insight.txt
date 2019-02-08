@@ -1,0 +1,4 @@
+1 common/Crude_Sword
+1 common/Sturdy_Armor
+2 common/Leather_Doublet
+2 common/Iron_Signet

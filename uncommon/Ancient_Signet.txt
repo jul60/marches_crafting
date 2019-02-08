@@ -1,0 +1,4 @@
+1 common/Heirloom_Helmet
+1 common/Leatherskin_Greaves
+1 common/Emerald_Signet
+1 common/Heirloom_Signet

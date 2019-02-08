@@ -1,0 +1,4 @@
+1 rare/Excellent_Coif
+1 uncommon/Rider_Sword
+2 uncommon/Taskmasters_Dagger
+2 uncommon/Tempered_Iron_Helm

@@ -1,0 +1,4 @@
+1 uncommon/Blunt_Sword
+1 uncommon/Farmers_Glory
+1 rare/Cavalry_Blade
+1 rare/Heavy_Plate

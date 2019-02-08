@@ -1,0 +1,5 @@
+1 epic/Plated_Greaves
+1 epic/Superior_Boots
+1 rare/Workers_Grasp
+2 rare/Band_of_Trade
+1 rare/Glorious_Stone

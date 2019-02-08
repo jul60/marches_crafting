@@ -1,0 +1,6 @@
+1 common/Family_Ring
+1 common/Emerald_Signet
+1 common/Lucky_Ring
+1 common/Sapphire_Band
+1 uncommon/Roadguards_Casque
+1 uncommon/Ancient_Signet

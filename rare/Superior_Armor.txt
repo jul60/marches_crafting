@@ -1,0 +1,5 @@
+1 uncommon/Swift_Blade
+1 uncommon/Ranger_Armor
+1 uncommon/Guardsman_Boots
+2 rare/Heavy_Plate
+1 rare/Tempered_Iron_Chestpiece

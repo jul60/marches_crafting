@@ -1,0 +1,5 @@
+1 common/Mail_Cuirass
+2 common/Sturdy_Gloves
+1 common/Leather_Shoes
+1 uncommon/Swift_Blade
+1 uncommon/Ornate_Chestpiece

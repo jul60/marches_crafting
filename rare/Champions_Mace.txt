@@ -1,0 +1,4 @@
+1 uncommon/Taskmasters_Dagger
+1 uncommon/Blunt_Sword
+1 uncommon/Ornate_Chestpiece
+1 uncommon/Governors_Grips

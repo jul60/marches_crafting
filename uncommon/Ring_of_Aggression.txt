@@ -1,0 +1,3 @@
+1 common/Crude_Crossbow
+1 common/Crudest_Boots
+2 common/Rider_Vambraces

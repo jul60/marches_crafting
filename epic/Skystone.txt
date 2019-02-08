@@ -1,0 +1,4 @@
+1 rare/Ornate_Grips
+3 rare/Quartermasters_Band
+1 epic/Bloody_Band
+1 epic/Illumination

@@ -1,0 +1,5 @@
+1 uncommon/Throwing_Axe
+2 rare/The_Don
+1 rare/Iron_Sword
+1 rare/Decorative_Blade
+1 rare/Hawkeye_Hat

@@ -1,0 +1,4 @@
+1 common/Sturdy_Gloves
+1 uncommon/Ranger_Armor
+3 uncommon/Rusted_Royal_Band
+1 uncommon/Ringmail_Armor

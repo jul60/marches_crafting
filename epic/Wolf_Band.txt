@@ -1,0 +1,5 @@
+1 rare/Champions_Mace
+1 rare/Heirloom_Greaves
+2 rare/Instructors_Signet
+1 rare/Reinforced_Boots
+1 rare/Wisdom_Stone

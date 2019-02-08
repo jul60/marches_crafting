@@ -1,0 +1,4 @@
+1 uncommon/Rider_Sword
+1 uncommon/Signet_of_Power
+1 rare/Iron_Sword
+1 rare/Cavalry_Blade

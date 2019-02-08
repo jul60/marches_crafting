@@ -1,0 +1,4 @@
+1 common/Crude_Sword
+1 common/Captains_Dagger
+1 common/Basic_Helm
+1 common/Light_Treads

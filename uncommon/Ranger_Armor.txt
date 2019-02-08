@@ -1,0 +1,3 @@
+2 common/Crude_Spear
+1 common/Leatherskin_Greaves
+1 common/Light_Treads

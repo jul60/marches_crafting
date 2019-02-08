@@ -1,0 +1,4 @@
+1 uncommon/Rider_Sword
+1 uncommon/Roadguards_Casque
+1 uncommon/Ringmail_Armor
+1 uncommon/Greaves_of_Fortune

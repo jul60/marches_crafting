@@ -1,0 +1,5 @@
+2 common/Peasant_Coat
+1 uncommon/Hide_Gloves
+1 uncommon/Engineers_Gloves
+1 uncommon/Ranger_Armor
+1 uncommon/Rider_Armor

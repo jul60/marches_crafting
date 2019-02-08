@@ -1,0 +1,6 @@
+1 common/Duellists_Sword
+1 common/Crude_Knife
+1 common/Light_Treads
+1 common/Obsidian_Band
+1 common/Captains_Dagger
+1 common/Warm_Grips

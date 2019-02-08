@@ -1,0 +1,2 @@
+2 common/Crude_Spear
+2 common/Heirloom_Helmet

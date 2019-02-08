@@ -1,0 +1,4 @@
+1 common/Ceremonial_Dagger
+1 common/Basic_Helm
+1 common/Guardsman_Helm
+1 common/Leather_Gloves

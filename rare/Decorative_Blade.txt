@@ -1,0 +1,5 @@
+1 uncommon/Hide_Gloves
+2 uncommon/Ring_of_Riches
+1 rare/Excellent_Coif
+1 rare/Superior_Helm
+1 rare/Engineers_Knife

@@ -1,0 +1,4 @@
+1 common/Obsidian_Band
+1 common/Heirloom_Signet
+1 uncommon/Iron_Spear
+1 uncommon/Milltia_Sabatons

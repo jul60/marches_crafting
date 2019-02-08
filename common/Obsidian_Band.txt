@@ -1,0 +1,2 @@
+2 common/Crude_Sword
+2 common/Leather_Shoes

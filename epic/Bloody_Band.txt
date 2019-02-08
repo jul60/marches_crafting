@@ -1,0 +1,4 @@
+1 rare/Heavy_Plate
+2 rare/Gloves_of_Agility
+2 rare/Band_of_Trade
+1 rare/Glorious_Stone

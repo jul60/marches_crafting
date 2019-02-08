@@ -1,0 +1,5 @@
+1 common/Guardsman_Helm
+2 common/Peasant_Coat
+1 common/Iron_Signet
+1 common/Heirloom_Signet
+1 common/Leather_Gloves

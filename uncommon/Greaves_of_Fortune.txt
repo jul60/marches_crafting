@@ -1,0 +1,4 @@
+1 common/Milltia_Blade
+1 common/Adventurers_Insight
+1 common/Leather_Doublet
+1 common/Emerald_Signet

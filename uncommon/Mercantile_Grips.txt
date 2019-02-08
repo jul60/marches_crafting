@@ -1,0 +1,6 @@
+1 common/Crude_Dagger
+1 common/Reinforced_Gauntlets
+1 common/Light_Treads
+1 common/Family_Ring
+1 uncommon/Rider_Sword
+1 uncommon/Ring_of_Riches
