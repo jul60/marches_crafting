@@ -5,14 +5,13 @@ declare -A sum inv
 # build array with the sum of all item counts
 while read pre type item cnt
 do
-	(( sum[$type/$item] += $cnt ))
+	(( sum[$type/$item] += cnt ))
 done <$1
 
 [ $# -eq 2 ] &&
 while read pre type item cnt
 do
-
-	(( sum[$type/$item] -= $cnt ))
+	(( sum[$type/$item] -= cnt ))
 done <$2
 
 for i in ${!sum[@]}	# all items
