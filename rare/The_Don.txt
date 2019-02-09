@@ -1,3 +1,3 @@
 2 uncommon/Hide_Gloves
 1 uncommon/Rider_Armor
-1 uncommon/Milltia_Sabatons
+1 uncommon/Militia_Sabatons
