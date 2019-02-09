@@ -1,0 +1,3 @@
+1 uncommon/Balanced_Sword
+2 uncommon/Ornate_Chestpiece
+1 uncommon/Heirloom_Gauntlets

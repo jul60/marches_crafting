@@ -1,0 +1,6 @@
+1 uncommon/Mercantile_Grips
+1 uncommon/Guardsman_Boots
+1 uncommon/Boots_of_Will
+1 uncommon/Doombringer
+1 rare/Quality_Boots
+1 rare/Reinforced_Boots

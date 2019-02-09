@@ -1,0 +1,5 @@
+1 uncommon/Rider_Sword
+2 uncommon/Ornate_Dagger
+1 uncommon/Thousand_Cuts
+1 uncommon/Boots_of_Will
+1 rare/Superior_Helm

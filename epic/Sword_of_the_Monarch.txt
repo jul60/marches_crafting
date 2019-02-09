@@ -1,0 +1,5 @@
+1 rare/Champions_Mace
+1 rare/Guardsman_Sword
+2 rare/The_Protector
+1 rare/Peacekeeper_Helmet
+1 rare/Ornate_Helm

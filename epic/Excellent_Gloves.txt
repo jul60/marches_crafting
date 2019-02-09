@@ -1,0 +1,3 @@
+1 uncommon/Roadguards_Casque
+1 uncommon/Thousand_Cuts
+2 rare/Wisdom_Stone

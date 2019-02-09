@@ -1,0 +1,5 @@
+1 uncommon/Iron_Spear
+2 uncommon/Plate_Mail
+1 uncommon/Heirloom_Gauntlets
+1 rare/Excellent_Coif
+1 rare/Ornate_Battle_Armor

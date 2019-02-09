@@ -1,0 +1,6 @@
+1 uncommon/Swift_Blade
+1 uncommon/Merchant_Knife
+1 uncommon/Tempered_Iron_Helm
+1 uncommon/Militia_Sabatons
+1 rare/Quick_Crossbow
+1 rare/Champions_Mace

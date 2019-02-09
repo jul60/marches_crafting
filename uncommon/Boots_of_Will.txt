@@ -1,0 +1,6 @@
+1 common/Crude_Crossbow
+1 common/Woodsmans_Sword
+1 uncommon/Iron_Spear
+1 uncommon/Architects_Boots
+1 common/Sturdy_Armor
+1 common/Iron_Signet

@@ -1,0 +1,6 @@
+1 rare/Cavalry_Blade
+1 rare/Grips_of_Dedication
+1 rare/Heirloom_Greaves
+1 rare/Rangers_Footwear
+1 rare/Ornate_Grips
+1 rare/Overlord_Fist
