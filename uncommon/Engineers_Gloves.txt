@@ -1,4 +1,4 @@
 1 common/Woodsmans_Sword
 1 common/Guardsman_Helm
-1 common/Milltia_Gauntlets
+1 common/Militia_Gauntlets
 1 common/Old_Slippers

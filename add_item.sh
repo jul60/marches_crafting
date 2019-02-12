@@ -2,7 +2,7 @@
 
 declare -A sum inv
 
-# build array with the sum of all item counts
+# build array with the sum of all item counts from stdin
 while read pre type item cnt
 do
 	(( sum[$type/$item] += cnt ))
@@ -11,7 +11,8 @@ done
 [ $# -eq 1 ] &&
 while read pre type item cnt
 do
-	(( sum[$type/$item] -= cnt ))
+	(( sum[$type/$item] > 0 )) &&
+		(( sum[$type/$item] -= cnt ))
 done <$1
 
 for i in ${!sum[@]}	# all items

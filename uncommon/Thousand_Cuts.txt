@@ -1,4 +1,4 @@
-1 common/Milltia_Blade
+1 common/Militia_Blade
 1 common/Sturdy_Helmet
 1 common/Lost_Ring
 1 common/Lucky_Ring

@@ -2,4 +2,4 @@
 1 common/Crude_Dagger
 1 common/Old_Slippers
 1 common/Crudest_Boots
-1 common/Milltia_Gauntlets
+1 common/Militia_Gauntlets
