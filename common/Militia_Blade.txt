@@ -1,0 +1,5 @@
+2 common/Crude_Knife
+1 common/Sturdy_Ring
+1 common/Lost_Ring
+1 common/Brigands_Armor
+1 common/Leather_Gloves
