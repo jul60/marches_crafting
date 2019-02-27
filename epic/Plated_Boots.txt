@@ -1,0 +1,3 @@
+1 rare/Horsemans_Casque
+2 rare/Ornate_Battle_Armor
+1 rare/Heirloom_Greaves

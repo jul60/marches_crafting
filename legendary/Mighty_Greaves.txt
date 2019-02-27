@@ -1,0 +1,4 @@
+1 epic/Workers_Grip
+1 epic/Plated_Greaves
+1 epic/Marksman_Ring
+1 epic/Wolf_Band

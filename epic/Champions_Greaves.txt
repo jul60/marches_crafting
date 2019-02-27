@@ -1,0 +1,4 @@
+1 epic/Ornate_Royal_Armor
+1 epic/Plated_Boots
+1 rare/Excellent_Coif
+3 rare/Captains_Boots

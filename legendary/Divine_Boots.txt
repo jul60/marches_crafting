@@ -1,0 +1,4 @@
+1 epic/Masterwork_Spear
+1 epic/Mercenary_Gloves
+1 epic/Plated_Boots
+1 epic/Stone_of_Ivy
